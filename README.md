@@ -1,1 +1,1 @@
-# proje-v2.0
+<h1>Landing Page</h1>
